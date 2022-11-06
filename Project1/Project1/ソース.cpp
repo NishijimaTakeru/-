@@ -3,6 +3,7 @@
 //BGM,SEのついか
 //撃墜数の表記
 
+/*テストテキスト*/
 
 #include <stdio.h>
 #include <stdlib.h>
