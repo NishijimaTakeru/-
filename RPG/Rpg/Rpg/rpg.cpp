@@ -1,5 +1,5 @@
 /*11/7:松本:Test Text*/
-
+//11/11:西嶋:確認済み:Class化松本君担当:main西嶋担当
 #include <stdio.h>  //標準入出力ヘッダーをインクルードする
 #include <stdlib.h> //標準ライブラリヘッダーをインクルードする
 #include <string.h>	//文字列操作ヘッダーをインクルードする
